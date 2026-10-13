@@ -33,6 +33,7 @@ jobs:
           pip install tabulate
           pip install lxml
           pip install requests
+          pip install BeautifulSoup
       - name: ls_show
         run: |
           python hsi.py
