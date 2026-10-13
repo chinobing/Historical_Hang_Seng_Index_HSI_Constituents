@@ -8,4 +8,3 @@ List of HSI historical constituents from 2026/10/13 to present. CSV format where
 
 
 ## Latest Changes
-
