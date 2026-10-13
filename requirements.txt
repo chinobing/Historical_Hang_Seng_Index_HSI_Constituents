@@ -2,3 +2,4 @@ pandas
 lxml
 tabulate
 requests
+beautifulsoup4
