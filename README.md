@@ -9,6 +9,6 @@ List of HSI historical constituents from 2026/10/13 to present. CSV format where
 
 ## Latest Changes
 
-Hang Seng Index Constituents Auto Renew at **2026-10-17 15:24:54**
+Hang Seng Index Constituents Auto Renew at **2026-10-18 04:14:15**
 
 No historical variations recorded yet.
